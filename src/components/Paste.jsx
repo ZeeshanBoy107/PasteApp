@@ -29,7 +29,7 @@ const Paste = () => {
     <div className="max-w-[700px] mx-auto flex flex-col gap-3 px-4 py-4">
       <div className="w-full mx-auto flex justify-between">
         <input
-          className="p-3 pl-5 rounded-lg  text-black bg-black w-full hover:border-gray-500 border-2"
+          className="p-3 pl-5 rounded-lg  text-white bg-black w-full hover:border-gray-500 border-2"
           type="search"
           placeholder="Search Here"
           value={searchTerm}
